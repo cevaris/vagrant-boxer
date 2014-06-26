@@ -1,7 +1,8 @@
 ##
 class base {
     $pacakges = [
-        'vim'.
+        'vim',
+        'iftop',
         'tmux'
     ]
 
